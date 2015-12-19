@@ -1,0 +1,15 @@
+base
+e1071
+ggplot2
+git2r
+rpart
+codetools
+lattice
+caret
+devtools
+rpart.plot
+slidify
+shinyapps
+slidifyLibraries
+shiny
+knitr
